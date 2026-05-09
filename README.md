@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**345235/345235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾I’m currently working on an project that automatically puts your appointments in a calandar and notify you when something is pending
+ 
+🌱 I’m currently learning html,css,javascript
 
-Here are some ideas to get you started:
+🤔 I’m looking for help with my code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything
+
+📫 How to reach me : you can reach me through my email 
+
+⚡ Fun fact: I have started coding 1 Month ago
+
