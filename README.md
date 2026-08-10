@@ -8,5 +8,5 @@ Hi there 👋
 
 📫 How to reach me : you can reach me through my email 
 
-⚡ Fun fact: I have started coding 3 Month ago
+
 
